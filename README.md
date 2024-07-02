@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ML projects
 - 💬 Ask me about AI/ML
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/kartiksingh1407)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartiksingh1407/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Earth is ROUND
 
